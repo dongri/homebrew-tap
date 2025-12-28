@@ -1,7 +1,7 @@
 class Coins < Formula
   desc "Terminal-based cryptocurrency price tracker"
   homepage "https://github.com/dongri/coins"
-  version "0.1.0"
+  version "0.1.1"
   license "MIT"
 
   on_macos do

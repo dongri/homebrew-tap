@@ -1,6 +1,6 @@
 cask "gity" do
-  version "1.0.13"
-  sha256 "d9b91c734befc8b08542874c429d177282e30d4a1fd22e9689a1bd814cea52e3"
+  version "1.0.14"
+  sha256 "f00bc5f8dcd021d4b6e639892ab13c03acb234fa3af1635d08fa02f8526e2616"
 
   url "https://github.com/dongri/gity/releases/download/v#{version}/GitY.dmg"
   name "GitY"
